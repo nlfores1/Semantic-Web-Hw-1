@@ -13,7 +13,7 @@
 <foaf:name>Nicholas Flores</foaf:name>
 <foaf:givenname>Nicholas</foaf:givenname>
 <foaf:family_name>Flores</foaf:family_name>
-<foaf:gender> Male</foaf:gender
+<foaf:gender> Male</foaf:gender>
 <foaf:age>20</foaf:age>
 <foaf:mbox_sha1sum>6d306567593b93f3c7a1cab7d0c55ae18bbeec86</foaf:mbox_sha1sum>
 <foaf:phone rdf:resource="tel:4433332345"/>
